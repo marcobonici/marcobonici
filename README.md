@@ -6,7 +6,7 @@
 
 ![Marco Bonici's GitHub stats](https://github-readme-stats.vercel.app/api?username=marcobonici&theme=dark&show_icons=true)
 
-I am a PostDoctoral Researcher at Warterloo Center for Astrophysics in Canada. I am a cosmologist and my research lies in the context of the large-scale-structure of the Universe. Currently my research is focused on methods to accelerate the analysis of cosmological datasets, employing surrogate models and gradient based methods (and most of this work is performed using the Julia programming language).
+I am a PostDoctoral Researcher at Waterloo Center for Astrophysics in Canada. I am a cosmologist and my research lies in the context of the large-scale-structure of the Universe. Currently my research is focused on methods to accelerate the analysis of cosmological datasets, employing surrogate models and gradient based methods (and most of this work is performed using the Julia programming language).
 
 I am involved in the Euclid mission of the European Space Agency. Euclid will map the galaxy distribution in about a third of the sky. I am mainly involved in the activity of the Galaxy Clustering Science Working Group (GC-SGW).
 
